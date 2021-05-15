@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "RESTfulApi_jwtPrivateKey",
+    "db": "Node_DB"
+}
